@@ -1,4 +1,6 @@
 bore water
 well water
 tap water
+hot water 
+cool water
 etc
